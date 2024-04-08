@@ -7,6 +7,7 @@
 # Cài đặt
 > Nhập Y
 ```
+termux-setup-storage
 apt update
 apt upgrade -y
 pkg i python -y python-pip -y openjdk-17 -y git -y
